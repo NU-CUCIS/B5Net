@@ -7,7 +7,7 @@ The basic requirement for using the files are listed in `requirements.txt`.
 
 ## Source Files
 
-The code for training the BRNet model  are available in the [`network` folder](./brnet).
+The code for training the B5Net model  are available in the [`network` folder](./brnet).
 
 ## Running the code
 
