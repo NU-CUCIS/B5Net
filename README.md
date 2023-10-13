@@ -44,6 +44,10 @@ The code was developed by Vishu Gupta from the <a href="http://cucis.ece.northwe
 }
 ```
 
+## Acknowledgements
+
+The open-source implementation of ElemNet <a href="https://github.com/NU-CUCIS/ElemNet">here</a> provided significant initial inspiration for the structure of this code-base. The authors would like to thank Dr. Zdenek P Bazant and Dr. Ahmet Abdullah Dönmez for helpful discussions.
+
 ## Disclaimer
 
 The research code shared in this repository is shared without any support or guarantee of its quality. However, please do raise an issue if you find anything wrong, and I will try my best to address it.
@@ -56,4 +60,4 @@ See COPYRIGHT notice in the top-level directory.
 
 ## Funding Support
 
-This work was performed under the following financial assistance award 70NANB19H005 from the U.S. Department of Commerce, National Institute of Standards and Technology, as part of the Center for Hierarchical Materials Design (CHiMaD). Partial support is also acknowledged from DOE awards DE-SC0014330, DE-SC0019358, and DE-SC0021399.
+This work is supported in part by the following grants: National Institute of Standards and Technology (NIST) award 70NANB19H005; Predictive Science and Engineering Design Cluster (PS\&ED, Northwestern University); Department of Energy (DOE) awards DE-SC0019358, DE-SC0021399; NSF award CMMI-2053929, and Northwestern Center for Nanocombinatorics.
