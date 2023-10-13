@@ -16,7 +16,7 @@ Here is a brief description of the files and folder content:
 
 * [`dataset`](./dataset): data used for training B5Net model. 
 
-* data augmentation.ipynb : jupyter notebook to convert the raw composition-based input into physics-based composition-based input and perform augmentation.
+* `data augmentation.ipynb`: jupyter notebook to convert the raw composition-based input into physics-based composition-based input and perform augmentation.
 
 ## Running the code
 
